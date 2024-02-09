@@ -1,5 +1,7 @@
 # ZBD Template for Unity
 
+Watch the video tutorial first [Here](https://www.youtube.com/playlist?list=PLaMJnpgudSAByEzoQ0wa3FSa2dx0VMtET).
+
 Welcome to the ZBD Template repository! This UnityPackage, alongside a sample game, is designed to jumpstart your journey into game development with a unique twist: integrating Bitcoin rewards via the ZBD platform. The core purpose of the ZBD Template is to provide developers with a foundational framework that showcases how to incorporate cryptocurrency rewards into games built using Unity.
 
 This template not only guides you through the integration process with practical examples but also serves as a customizable blueprint. We understand that each game has its own set of unique requirements and visions. Therefore, the ZBD Template is built to be flexible, allowing developers to tweak and modify it to fit the bespoke needs of their own games.
