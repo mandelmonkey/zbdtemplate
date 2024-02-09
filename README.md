@@ -20,7 +20,7 @@ To make the integration process as smooth as possible, please ensure you have th
 
 ### Installation
 
-1. Download the ZBD Template UnityPackage from this repository.
+1. Download the ZBD Template UnityPackage from this repository. [Download Package](https://github.com/mandelmonkey/zbdtemplate/releases).
 2. Ensure that the Beamable SDK is already installed in your Unity project. If not, visit [Beamable.com](https://beamable.com) for installation instructions.
 3. Verify that your Quago account is set up and ready to integrate anti-cheat services into your project. For integration support, visit [Quago.io](https://quago.io).
 4. Open your Unity project or create a new one.
