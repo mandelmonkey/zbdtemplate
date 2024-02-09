@@ -1,0 +1,8 @@
+{
+    "cid": "1500558392720422",
+    "alias": "christian-moss",
+    "pid": "DE_1711681645035522",
+    "platform": "",
+    "socket": "",
+    "containerPrefix": ""
+}
