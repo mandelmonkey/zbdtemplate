@@ -5653,6 +5653,7 @@ GameObject:
   - component: {fileID: 4593444172058494712}
   - component: {fileID: 7084407338250167592}
   - component: {fileID: 4531313024136913234}
+  - component: {fileID: 2581534443578569308}
   m_Layer: 5
   m_Name: ZBDRewards
   m_TagString: Untagged
@@ -5770,7 +5771,7 @@ MonoBehaviour:
   countdownLabel: {fileID: 8447073342914799916}
   responseLabel: {fileID: 215756783690715490}
   debugModeLabel: {fileID: 8990636953054809193}
-  appToken: zbb3f1a7z9q5
+  appToken: zbd_fs0hvc
   infoPanel: {fileID: 3394581897197423093}
   successPanel: {fileID: 649387446497193335}
   errorPanel: {fileID: 386532890858696572}
@@ -5793,6 +5794,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6b113b2eb1eab49318977cafc8f3283b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2581534443578569308
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5870348097736733357}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d38cb455c47cb41a3b03ce1477e8483a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &5871656140034397689

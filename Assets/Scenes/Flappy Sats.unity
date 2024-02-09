@@ -817,33 +817,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7084407338250167592, guid: c42f95068c5594d18b453cd3ea4d0f25, type: 3}
       propertyPath: appToken
-      value: zbd_fs0hvc
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 5870348097736733357, guid: c42f95068c5594d18b453cd3ea4d0f25, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 214875365}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c42f95068c5594d18b453cd3ea4d0f25, type: 3}
---- !u!1 &214875364 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5870348097736733357, guid: c42f95068c5594d18b453cd3ea4d0f25, type: 3}
-  m_PrefabInstance: {fileID: 214875363}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &214875365
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 214875364}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d38cb455c47cb41a3b03ce1477e8483a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &298509898
 GameObject:
   m_ObjectHideFlags: 0
